@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    color: #ffffff;
+  }
+}
+
+/* Guarantee all typography renders pure crisp white as instructed */
+h1, h2, h3, h4, h5, h6, p, span, div, a, button, input, label, th, td {
+  --tw-text-opacity: 1;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "IntelBase Threat Intelligence Studio",
+  "description": "Advanced OSINT & Cyber Threat Intelligence console powered by IntelBase API (api.intelbase.is). Investigate emails, usernames, breached credentials, and identity profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
